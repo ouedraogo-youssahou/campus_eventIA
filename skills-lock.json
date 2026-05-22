@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "slidev-plantuml": {
+      "source": "yoanbernabeu/slidev-skills",
+      "sourceType": "github",
+      "skillPath": "skills/visuals/slidev-plantuml/SKILL.md",
+      "computedHash": "cffb2f54833f54ac29500a535e255dc6dc73af4266daace6244424d0559a29f7"
+    },
+    "uml-modeling": {
+      "source": "melodic-software/claude-code-plugins",
+      "sourceType": "github",
+      "skillPath": "plugins/formal-specification/skills/uml-modeling/SKILL.md",
+      "computedHash": "9b6c3f273cd3f0892502349969c12fdaacc8eacc1a239f2b499bca60dbac0796"
+    }
+  }
+}
